@@ -37,6 +37,7 @@ class Businessfragment : Fragment(),NewsClicked {
     private var param1: String? = null
     private var param2: String? = null
 
+
     private lateinit var recyclerView: RecyclerView
     private lateinit var madapter: NewsAdapter
     lateinit var binding: FragmentBusinessfragmentBinding
